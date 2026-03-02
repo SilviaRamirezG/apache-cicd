@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><title>Mi Web Automática</title></head>
+<body>
+    <h1>Despliegue con GitHub Actions</h1>
+    <p>Esta página se actualizó sola.</p>
+</body>
+</html>
+

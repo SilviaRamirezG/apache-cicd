@@ -1,0 +1,7 @@
+services:
+  web-server:
+    build: .
+    container_name: apache_cicd
+    ports:
+      - "80:80"
+    restart: always
